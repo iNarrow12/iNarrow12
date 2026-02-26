@@ -1,11 +1,15 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=iNarrow12&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Space!&descAlignY=60&descAlign=50" width="100%"/>
+</div>
+
+<div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+a+Passionate+Software+Developer;Always+learning+and+building...;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+a+Passionate+Software+Developer;Always+learning+and+building...;Let's+build+something+amazing!" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    A passionate developer focusing on building responsive, scalable, and user-friendly applications.
+    <img src="https://komarev.com/ghpvc/?username=iNarrow12&label=Profile%20Views&color=0e75b6&style=flat-square" alt="iNarrow12's Profile Views" />
   </p>
 
   <p align="center">
@@ -34,11 +38,21 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iNarrow12&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="iNarrow12 Trophies" />
+  </a>
+</div>
+
+---
+
 ### 🛠️ Languages and Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,java,mysql,mongodb,postgresql,git,github,docker,aws,linux,figma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,java,git,github,docker,aws,linux,figma&perline=10" />
   </a>
 </div>
 
@@ -47,14 +61,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=iNarrow12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="iNarrow12's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iNarrow12&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="iNarrow12's GitHub Streak" width="48%">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNarrow12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages">
 </div>
 
 ---
