@@ -1,21 +1,27 @@
-<!-- HEADER WAVE + 3D NAME via capsule-render -->
+<!-- HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=iNarrow12&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Network%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20NIBM%20%F0%9F%87%B1%F0%9F%87%B0&descSize=18&descAlignY=58&descColor=a0aec0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=iNarrow12&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Network%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20NIBM&descSize=18&descAlignY=58&descColor=a0aec0)
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%94%93+Ethical+Hacking+Student;%F0%9F%93%A1+Network+Engineering+%40+NIBM;%F0%9F%92%BB+Always+in+the+terminal...;%F0%9F%9A%80+Breaking+things+legally!;%F0%9F%8E%AF+CTF+Player+%7C+Packet+Sniffer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Ethical+Hacking+Student;Network+Engineering+%40+NIBM;Always+in+the+terminal...;Breaking+things+legally!;CTF+Player+%7C+Packet+Sniffer)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- PROFILE VIEWS BADGE -->
+<!-- SOCIAL LINKS - replace # with your actual URLs -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=iNarrow12&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 👾 `$ whoami`
+## `$ whoami`
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="hacking gif"/>
 
@@ -25,12 +31,12 @@
 
 {
   "name"       : "iNarrow12",
-  "institute"  : "NIBM — Sri Lanka 🇱🇰",
-  "major"      : "Network Engineering 📡",
-  "passion"    : "Ethical Hacking 🔐",
+  "institute"  : "NIBM — Sri Lanka",
+  "major"      : "Network Engineering",
+  "passion"    : "Ethical Hacking",
   "certs_goal" : ["CEH", "OSCP", "Security+"],
-  "hobbies"    : ["CTFs 🚩", "Packet Analysis", "Breaking things legally 😅"],
-  "status"     : "▓▓▓▓▓▓▓░░ Grinding... 🔥"
+  "hobbies"    : ["CTFs", "Packet Analysis", "Breaking things legally"],
+  "status"     : "Grinding..."
 }
 ```
 
@@ -38,38 +44,36 @@
 
 ---
 
-## 💻 `about.py`
+## `about.py`
 
 ```python
 class iNarrow12:
     def __init__(self):
         self.name        = "iNarrow12"
-        self.institute   = "NIBM — Network Engineering 🎓"
+        self.institute   = "NIBM — Network Engineering"
         self.skills      = ["Ethical Hacking", "Networking", "Linux", "Python"]
         self.tools       = ["Kali Linux", "Wireshark", "Nmap", "Burp Suite"]
         self.certs_todo  = ["CEH", "CompTIA Security+", "OSCP"]
-        self.hobbies     = ["CTFs 🚩", "Packet Analysis 📡", "Breaking things legally 😅"]
+        self.hobbies     = ["CTFs", "Packet Analysis", "Breaking things legally"]
 
     def mission(self):
-        return "🚀 Turning curiosity into capability — one exploit at a time."
+        return "Turning curiosity into capability — one exploit at a time."
 
 me = iNarrow12()
 print(me.mission())
-# Output: 🚀 Turning curiosity into capability — one exploit at a time.
+# Output: Turning curiosity into capability — one exploit at a time.
 ```
 
 ---
 
-## 🛠️ Arsenal
+## Arsenal
 
 <div align="center">
 
-<!-- SKILL ICONS - renders as nice icon grid -->
 [![My Skills](https://skillicons.dev/icons?i=linux,python,bash,kali,git,github,vim,vscode&theme=dark)](https://skillicons.dev)
 
 <br/>
 
-<!-- BADGES -->
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -83,7 +87,7 @@ print(me.mission())
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -100,13 +104,12 @@ print(me.mission())
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════╗
-║   Every packet tells a story.                ║
-║   I just listen. 🎧          — iNarrow12     ║
-╚══════════════════════════════════════════════╝
++----------------------------------------------+
+|   Every packet tells a story.                |
+|   I just listen.              — iNarrow12    |
++----------------------------------------------+
 ```
 
-<!-- FOOTER WAVE -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling)
 
 </div>
