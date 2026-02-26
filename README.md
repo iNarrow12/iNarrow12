@@ -87,12 +87,6 @@ print(me.mission())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iNarrow12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_radius=10" width="48%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNarrow12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_radius=10" width="38%"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=iNarrow12&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&border_radius=10" width="55%"/>
 
 <br/><br/>
