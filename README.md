@@ -62,7 +62,7 @@ print(me.mission())
 
 ---
 
-## Arsenal
+## Skills
 
 <div align="center">
 
