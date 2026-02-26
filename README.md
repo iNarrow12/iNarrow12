@@ -18,9 +18,6 @@
 ---
 
 ## `$ whoami`
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="hacking gif"/>
-
 ```bash
 ┌──(iNarrow12㉿NIBM)-[~]
 └─$ cat profile.json
