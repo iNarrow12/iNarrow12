@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=3780d8&text=iNarrow12&textBg=false&animation=twinkling&reversal=true&fontColor=ffffff&fontSize=88&desc=Network%20Engineer%20|%20Ethical%20Hacker&descSize=20&descAlignY=61)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Ethical+Hacking+Student;Network+Engineering+%40+NIBM;Always+in+the+terminal...;Breaking+things+legally!;CTF+Player+%7C+Packet+Sniffer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&color=33D6A6&center=true&vCenter=true&random=true&width=435&lines=Hey%2C+iM+iNarrow12+;A+Student+%40+NIBMA;CTF+Player;Malware+Researcher)](https://git.io/typing-svg)
 
 <br/>
 
