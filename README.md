@@ -40,7 +40,7 @@
 
 ---
 
-## `about.py`
+## `$ about.py`
 
 ```python
 class iNarrow12:
