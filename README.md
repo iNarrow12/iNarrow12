@@ -59,7 +59,7 @@ print(me.mission())
 
 ---
 
-## Skills
+## `$ Skills`
 
 <div align="center">
 
@@ -80,7 +80,7 @@ print(me.mission())
 
 ---
 
-## GitHub Stats
+## `$ GitHub Stats`
 
 <div align="center">
 
