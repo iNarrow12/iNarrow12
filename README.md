@@ -1,22 +1,102 @@
-<h1 align="center">Hi 👋, I'm iNarrow12</h1>
-<h3 align="center">A Student Of NIBM Network Eng</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inarrow12&label=Profile%20views&color=0e75b6&style=flat" alt="inarrow12" /> </p>
+```
+██╗███╗   ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██╗    ██╗ ██╗██████╗ 
+██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██║    ██║███║╚════██╗
+██║██╔██╗ ██║███████║██████╔╝██████╔╝██║   ██║██║ █╗ ██║╚██║ █████╔╝
+██║██║╚██╗██║██╔══██║██╔══██╗██╔══██╗██║   ██║██║███╗██║ ██║██╔═══╝ 
+██║██║ ╚████║██║  ██║██║  ██║██║  ██║╚██████╔╝╚███╔███╔╝ ██║███████╗
+╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝  ╚═╝╚══════╝
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inarrow12" alt="inarrow12" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Network+Engineering+Student+%F0%9F%8C%90;Ethical+Hacking+Enthusiast+%F0%9F%94%93;NIBM+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Always+learning%2C+always+hacking+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/inarrow12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="inarrow12" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/inarrow12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="inarrow12" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inarrow12&show_icons=true&locale=en&layout=compact" alt="inarrow12" /></p>
+## 👾 `whoami`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inarrow12&show_icons=true&locale=en" alt="inarrow12" /></p>
+```bash
+$ whoami
+> iNarrow12
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inarrow12&" alt="inarrow12" /></p>
+$ cat about.txt
+  Name      : iNarrow12
+  Role      : Network Engineering Student
+  Institute : NIBM, Sri Lanka 🇱🇰
+  Focus     : Ethical Hacking & Cybersecurity
+  Status    : [ ▓▓▓▓▓▓▓▓░░ ] Learning Mode ON 🔥
+```
 
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 What I'm Up To
+
+```python
+class iNarrow12:
+    def __init__(self):
+        self.name       = "iNarrow12"
+        self.institute  = "NIBM — Network Engineering"
+        self.learning   = ["Ethical Hacking", "Networking", "Cybersecurity"]
+        self.hobbies    = ["CTFs", "Lab setups", "Breaking things (legally 😅)"]
+        self.goal       = "Become a certified ethical hacker 🔐"
+
+    def current_status(self):
+        return "🚀 Grinding through labs & packets..."
+
+me = iNarrow12()
+print(me.current_status())
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![iNarrow12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iNarrow12&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iNarrow12&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=iNarrow12&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-iNarrow12-181717?style=for-the-badge&logo=github)](https://github.com/iNarrow12)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ Every packet tells a story. I just listen. 🎧 ]
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=iNarrow12&color=00f7ff&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
