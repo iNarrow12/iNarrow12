@@ -21,7 +21,7 @@
 ## `$ whoami`
 ```bash
 ┌──(iNarrow12㉿NIBM)-[~]
-└─$ cat whoami.json
+└─$ bat whoami.json
 
 {
   "name"       : "iNarrow12",
@@ -42,7 +42,7 @@
 
 ```python
 ┌──(iNarrow12㉿NIBM)-[~]
-└─$ cat about.json
+└─$ bat about.json
 
 class iNarrow12:
     def __init__(self):
