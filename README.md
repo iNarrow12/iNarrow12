@@ -3,9 +3,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=INARROW12&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Network%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20NIBM&descSize=18&descAlignY=58&descColor=a0aec0)
 
-</div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&color=33D6A6&center=true&vCenter=true&random=true&width=435&lines=Hey%2C+iM+iNarrow12+;A+Student+%40+NIBMA;CTF+Player;Malware+Researcher)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- SOCIAL LINKS - replace # with your actual URLs -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=iNarrow12&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
@@ -33,7 +42,7 @@
 
 ```python
 ┌──(iNarrow12㉿NIBM)-[~]
-└─$ bat about.json
+└─$ bat about.py
 
 class iNarrow12:
     def __init__(self):
@@ -87,11 +96,7 @@ print(me.mission())
 
 </div>
 <div align="center">
-</div>
 
----
-<!-- SOCIAL LINKS - replace # with your actual URLs -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_USERNAME)
-![Profile Views](https://komarev.com/ghpvc/?username=iNarrow12&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling)
+
+</div>
