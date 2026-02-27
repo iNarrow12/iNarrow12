@@ -1,9 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=INARROW12&section=header&reversal=true&desc=Malware%20Researcher%20|%20Ethical%20Hacker%20|%20NIBMResacher&animation=fadeIn&fontColor=black&textBg=false)
-
-#(https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=INARROW12&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Network%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20NIBM&descSize=18&descAlignY=58&descColor=a0aec0)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=INARROW12&section=header&reversal=true&desc=Malware%20Researcher%20|%20Ethical%20Hacker%20|%20NIBM%20Student&animation=fadeIn&fontColor=black&textBg=false)
 
 <br/>
 
