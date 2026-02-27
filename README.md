@@ -16,6 +16,8 @@
 
 </div>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling)
+
 ---
 
 ## `$ whoami`
@@ -96,7 +98,4 @@ print(me.mission())
 
 </div>
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling)
-
 </div>
