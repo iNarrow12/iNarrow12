@@ -3,10 +3,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=INARROW12&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Network%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20NIBM&descSize=18&descAlignY=58&descColor=a0aec0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&color=33D6A6&center=true&vCenter=true&random=true&width=435&lines=Hey%2C+iM+iNarrow12+;A+Student+%40+NIBM;CTF+Player;Malware+Researcher)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&color=33D6A6&center=true&vCenter=true&random=true&width=435&lines=Hey%2C+iM+iNarrow12+;A+Student+%40+NIBMA;CTF+Player;Malware+Researcher)](https://git.io/typing-svg)
 
 <br/>
 
+<!-- SOCIAL LINKS - replace # with your actual URLs -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_USERNAME)
@@ -17,10 +19,9 @@
 ---
 
 ## `$ whoami`
-
 ```bash
 ┌──(iNarrow12㉿NIBM)-[~]
-└─$ cat whoami.json
+└─$ cat profile.json
 
 {
   "name"       : "iNarrow12",
@@ -33,23 +34,28 @@
 }
 ```
 
+<br clear="right"/>
+
 ---
 
-## `$ about.json`
+## `$ about.py`
 
-```json
-┌──(iNarrow12㉿NIBM)-[~]
-└─$ cat about.json
+```python
+class iNarrow12:
+    def __init__(self):
+        self.name        = "iNarrow12"
+        self.institute   = "NIBM — Network Engineering"
+        self.skills      = ["Ethical Hacking", "Networking", "Linux", "Python"]
+        self.tools       = ["Kali Linux", "Wireshark", "Nmap", "Burp Suite"]
+        self.certs_todo  = ["CEH", "CompTIA Security+", "OSCP"]
+        self.hobbies     = ["CTFs", "Packet Analysis", "Breaking things legally"]
 
-{
-  "name"        : "iNarrow12",
-  "institute"   : "NIBM — Network Engineering",
-  "skills"      : ["Ethical Hacking", "Networking", "Linux", "Python"],
-  "tools"       : ["Kali Linux", "Wireshark", "Nmap", "Burp Suite"],
-  "certs_goal"  : ["CEH", "CompTIA Security+", "OSCP"],
-  "hobbies"     : ["CTFs", "Packet Analysis", "Breaking things legally"],
-  "mission"     : "Turning curiosity into capability — one exploit at a time."
-}
+    def mission(self):
+        return "Turning curiosity into capability — one exploit at a time."
+
+me = iNarrow12()
+print(me.mission())
+# Output: Turning curiosity into capability — one exploit at a time.
 ```
 
 ---
@@ -86,7 +92,6 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iNarrow12&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling)
