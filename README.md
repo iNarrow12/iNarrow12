@@ -3,11 +3,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=INARROW12&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Network%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20NIBM&descSize=18&descAlignY=58&descColor=a0aec0)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&color=33D6A6&center=true&vCenter=true&random=true&width=435&lines=Hey%2C+iM+iNarrow12+;A+Student+%40+NIBMA;CTF+Player;Malware+Researcher)](https://git.io/typing-svg)
-
-<br/>
-
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling)
