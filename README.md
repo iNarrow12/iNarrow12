@@ -98,13 +98,6 @@ print(me.mission())
 
 <div align="center">
 
-```
-+----------------------------------------------+
-|   Every packet tells a story.                |
-|   I just listen.              — iNarrow12    |
-+----------------------------------------------+
-```
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling)
 
 </div>
