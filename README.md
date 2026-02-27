@@ -13,8 +13,6 @@
 
 </div>
 
----
-
 ## `$ whoami`
 ```bash
 ┌──(iNarrow12㉿NIBM)-[~]
@@ -58,8 +56,6 @@ print(me.mission())
 # Output: Turning curiosity into capability — one exploit at a time.
 ```
 
----
-
 ## `$ Skills`
 
 <div align="center">
@@ -78,8 +74,6 @@ print(me.mission())
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
 
 </div>
-
----
 
 ## `$ GitHub Stats`
 
