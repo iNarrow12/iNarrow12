@@ -1,7 +1,9 @@
 <!-- HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=3780d8&text=iNarrow12&textBg=false&animation=twinkling&reversal=true&fontColor=ffffff&fontSize=88&desc=Network%20Engineer%20|%20Ethical%20Hacker&descSize=20&descAlignY=61)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=iNarrow12&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Network%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20NIBM&descSize=18&descAlignY=58&descColor=a0aec0)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&color=33D6A6&center=true&vCenter=true&random=true&width=435&lines=Hey%2C+iM+iNarrow12+;A+Student+%40+NIBMA;CTF+Player;Malware+Researcher)](https://git.io/typing-svg)
 
