@@ -8,12 +8,6 @@
 
 <br/>
 
-<!-- SOCIAL LINKS - replace # with your actual URLs -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_USERNAME)
-![Profile Views](https://komarev.com/ghpvc/?username=iNarrow12&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling)
@@ -99,3 +93,10 @@ print(me.mission())
 </div>
 <div align="center">
 </div>
+
+---
+<!-- SOCIAL LINKS - replace # with your actual URLs -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=iNarrow12&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)
