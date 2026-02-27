@@ -31,8 +31,6 @@
 
 <br clear="right"/>
 
----
-
 ## `$ about.py`
 
 ```python
