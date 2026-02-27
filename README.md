@@ -20,7 +20,7 @@
 
 ```bash
 ┌──(iNarrow12㉿NIBM)-[~]
-└─$ cat profile.json
+└─$ cat whoami.json
 
 {
   "name"       : "iNarrow12",
@@ -38,6 +38,9 @@
 ## `$ about.json`
 
 ```json
+┌──(iNarrow12㉿NIBM)-[~]
+└─$ cat about.json
+
 {
   "name"        : "iNarrow12",
   "institute"   : "NIBM — Network Engineering",
