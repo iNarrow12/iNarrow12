@@ -3,8 +3,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=INARROW12&fontAlignY=42&fontColor=black&animation=twinkling&desc=Malware%20Developer%20|%20Security%20Researcher%20|%20Web%20Application%20Pentester)
 
-<br/>
-
 <!-- SOCIAL LINKS -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_WEBSITE.com)
