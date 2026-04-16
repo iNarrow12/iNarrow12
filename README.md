@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=INARROW12&section=header&reversal=true&desc=Malware%20Researcher%20|%20Ethical%20Hacker%20|%20NIBM%20Student&animation=fadeIn&fontColor=black&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=INARROW12&fontAlignY=42&fontColor=black&animation=twinkling&desc=Malware%20Developer%20|%20Security%20Researcher%20|%20Web%20Application%20Pentester)
 
 <br/>
 
