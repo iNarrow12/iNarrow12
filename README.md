@@ -24,7 +24,7 @@
   "major"      : "Network Engineering",
   "passion"    : "Ethical Hacking",
   "certs_goal" : ["CEH", "OSCP", "Security+"],
-  "hobbies"    : ["CTFs", "Packet Analysis", "Breaking things legally"],
+  "hobbies"    : ["CTFs", "Packet Analysis", "Malware Development", "Security Research", "Web Application Pentesting"],
   "status"     : "Grinding..."
 }
 ```
