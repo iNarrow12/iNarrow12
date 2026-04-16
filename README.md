@@ -51,26 +51,6 @@ me = iNarrow12()
 print(me.mission())
 # Output: Turning curiosity into capability — one exploit at a time.
 ```
-
-## `$ Skills`
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=linux,python,bash,kali,git,github,vim,vscode&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
-
-</div>
-
 ## `$ GitHub Stats`
 
 <div align="center">
