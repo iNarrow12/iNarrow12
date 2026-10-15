@@ -57,7 +57,7 @@
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iNarrow12&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-activity-chart.vercel.app/graph?username=iNarrow12&theme=tokyonight&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)](https://github.com/HardcodeCoder/Github-Activity-Chart)
 
 </div>
 
