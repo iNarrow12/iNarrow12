@@ -30,7 +30,7 @@
 
 ---
 
-## Focus & Technical Competencies
+## Focus
 
 | Domain | Focus Areas |
 | :--- | :--- |
@@ -41,7 +41,7 @@
 
 ---
 
-## Current Focus & Active Labs
+## Current Focus
 
 * **Goal:** Deepening knowledge in C/C++ memory management, low-level Win32 API internals, and network packet flow.
 * **Lab Environment:** Configured custom Linux environments, isolated malware analysis sandboxes, and local enterprise lab setups.
