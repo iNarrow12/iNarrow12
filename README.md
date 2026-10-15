@@ -55,7 +55,7 @@
 
 <img src="https://streak-stats.demolab.com?user=iNarrow12&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&border_radius=10" width="55%"/>
 
-<br/><br/>
+<br/>
 
 [![Activity Graph](https://github-activity-chart.vercel.app/graph?username=iNarrow12&theme=tokyonight&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)](https://github.com/HardcodeCoder/Github-Activity-Chart)
 
