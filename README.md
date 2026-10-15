@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=INARROW12&fontAlignY=42&fontColor=black&animation=twinkling&desc=Malware%20Developer%20|%20Security%20Researcher%20|%20Web%20Application%20Pentester)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=false&text=INARROW12&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=FFFFFF&strokeWidth=0&desc=CTF+Player+%7C+Ethical+Hacking+Student&descSize=22&descAlign=50&descAlignY=62)
 
 <!-- SOCIAL LINKS -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
@@ -11,47 +11,45 @@
 
 </div>
 
-## `$ whoami`
-```bash
-┌──(iNarrow12㉿NIBM)-[~]
-└─$ bat whoami.json
+## Overview
 
-{
-  "name"       : "iNarrow12",
-  "institute"  : "NIBM — Sri Lanka",
-  "major"      : "Network Engineering",
-  "passion"    : "Ethical Hacking",
-  "certs_goal" : ["CEH", "OSCP", "Security+"],
-  "hobbies"    : ["CTFs", "Packet Analysis", "Malware Development", "Security Research", "Web Application Pentesting"],
-  "status"     : "Grinding..."
-}
-```
+* **Handle:** iNarrow12
+* **Education:** NIBM Colombo — Network Engineering
+* **Activities:** CTFs
+* **Interests:** Malware Development & Red Teaming
+* **Core Stack:** Linux, Python, C/C++, Go, PowerShell
+* **Status:** Learning the fundamentals & building labs
 
-<br clear="right"/>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
-## `$ about.py`
 
-```python
-┌──(iNarrow12㉿NIBM)-[~]
-└─$ bat about.py
+---
 
-class iNarrow12:
-    def __init__(self):
-        self.name        = "iNarrow12"
-        self.institute   = "NIBM — Network Engineering"
-        self.skills      = ["Ethical Hacking", "Networking", "Linux", "Python"]
-        self.tools       = ["Kali Linux", "Wireshark", "Nmap", "Burp Suite"]
-        self.certs_todo  = ["CEH", "CompTIA Security+", "OSCP"]
-        self.hobbies     = ["CTFs", "Packet Analysis", "Breaking things legally"]
+## Focus & Technical Competencies
 
-    def mission(self):
-        return "Turning curiosity into capability — one exploit at a time."
+| Domain | Focus Areas |
+| :--- | :--- |
+| **Networking & Systems** | Network Infrastructure, Linux System Administration, Containerization (Docker/Podman) |
+| **Security Research** | CTF Competitions, Packet Analysis, Vulnerability Assessment |
+| **Low-Level & Development** | Systems Programming (C/C++), Automation (Python/Bash), Scripting (PowerShell) |
+| **Path to Red Teaming** | Offensive Security Mechanics, Malware Development Fundamentals, Adversary Emulation |
 
-me = iNarrow12()
-print(me.mission())
-# Output: Turning curiosity into capability — one exploit at a time.
-```
-## `$ GitHub Stats`
+---
+
+## Current Focus & Active Labs
+
+* **Goal:** Deepening knowledge in C/C++ memory management, low-level Win32 API internals, and network packet flow.
+* **Lab Environment:** Configured custom Linux environments, isolated malware analysis sandboxes, and local enterprise lab setups.
+* **Active CTF Categories:** Jeopardy-style CTFs focusing on Reverse Engineering, Network Forensics, and Web Security.
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -62,6 +60,7 @@ print(me.mission())
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iNarrow12&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling)
