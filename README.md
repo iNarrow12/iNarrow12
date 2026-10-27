@@ -37,7 +37,7 @@
 | **Networking & Systems** | Network Infrastructure, Linux System Administration, Containerization (Docker/Podman) |
 | **Security Research** | CTF Competitions, Packet Analysis, Vulnerability Assessment |
 | **Low-Level & Development** | Systems Programming (C/C++), Automation (Python/Bash), Scripting (PowerShell) |
-| **Path to Red Teaming** | Offensive Security Mechanics, Malware Development Fundamentals, Adversary Emulation |
+| **Path to Red Teaming** | Offensive Security Mechanics, Malware Development, Adversary Emulation |
 
 ---
 
